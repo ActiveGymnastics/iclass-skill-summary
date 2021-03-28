@@ -1,0 +1,19 @@
+{
+  "name": "iclass-skill-summary",
+  "version": "0.0.1",
+  "description": "An extension for iClassPro to generate a summary of each skill level report.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ActiveGymnastics/iclass-skill-summary.git"
+  },
+  "author": "Active Gymnastics | Myles Keeffe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ActiveGymnastics/iclass-skill-summary/issues"
+  },
+  "homepage": "https://github.com/ActiveGymnastics/iclass-skill-summary#readme"
+}
