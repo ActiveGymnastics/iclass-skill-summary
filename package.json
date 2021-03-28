@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ActiveGymnastics/iclass-skill-summary/issues"
   },
-  "homepage": "https://github.com/ActiveGymnastics/iclass-skill-summary#readme"
+  "homepage": "https://github.com/ActiveGymnastics/iclass-skill-summary#readme",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
 }
